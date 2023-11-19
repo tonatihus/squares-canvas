@@ -11,3 +11,8 @@ Estando en el directorio del proyecto, ejecutar:
  `npm run build`
 
  `serve -s build`
+ 
+## Referencias
+[Canvas with React.js](https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258)
+
+[Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
