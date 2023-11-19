@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    height: 98vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(110, 125, 205);
+}
+
+.canvitas {
+    border: 1px solid hotpink;
+    background-color: white;
+    width: 80%;
+    height: 80%;
+}
+
+/*# sourceMappingURL=/squares-canvas.e31bb0bc.css.map */
