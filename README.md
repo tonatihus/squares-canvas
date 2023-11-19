@@ -1,4 +1,4 @@
-# Squares in ReactJS
+# Squares in ReactJS peeeero con canvas
 
 Este proyecto está inspirado en una animación vista en [instagram](https://www.instagram.com/reel/CzXgpEwuRdb/?igshid=NGEwZGU0MjU5Mw%3D%3D).
 
